@@ -1,0 +1,10 @@
+server:
+  port: 9080
+
+spring:
+  rabbitmq:
+    host: 34.64.89.15
+    port: 5672
+    username: guest
+    password: guest
+
